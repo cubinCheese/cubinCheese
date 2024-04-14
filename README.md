@@ -1,4 +1,4 @@
-### 👋  Hi there I'm Albert
+### 👋  Hi there, I'm Albert
 
 - <img src="https://github.com/cubinCheese/cubinCheese/assets/93562548/02a0a011-699c-4227-b104-cd68e5186945" alt="python-logo-only" width="20" height="20"> Graduated from UCSD in June 2023
 
